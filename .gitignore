@@ -1,0 +1,4 @@
+*.pyc
+portfolio/db.sqlite3
+myvenv/
+#portfolio/portfolioapp/startbootstrap-creative-gh-pages/
